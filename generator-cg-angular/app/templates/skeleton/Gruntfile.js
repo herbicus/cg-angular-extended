@@ -202,7 +202,7 @@ module.exports = function (grunt) {
     gitclone: {
       clone: {
         options: {
-          repository: 'https://<%= username %>' 
+          repository: 'https://<%= username %>',
           directory: 'vendor'
         }
       }

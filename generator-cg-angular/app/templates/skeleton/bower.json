@@ -8,7 +8,6 @@
     "vendor"
   ],
   "dependencies": {
-    "ng-revit": "~1.0.12",
     "angular": "v1.3.0",
     "angular-bootstrap": "~0.10",
     "angular-ui-router": "v0.2.10",
